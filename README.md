@@ -3,5 +3,5 @@
 Hosted-link: https://datatrecordtask.netlify.app/
 
 # stack used
-** react js
-** react paginate
+## react js
+## react paginate
